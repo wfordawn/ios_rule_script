@@ -1,0 +1,4 @@
+# NAME: CN
+# DESC: 中国大陆 IP 直连（使用 Loon 内置 GEOIP 数据库，无需下载 IP 段）
+# UPDATED: 2026-10-19
+GEOIP,cn
